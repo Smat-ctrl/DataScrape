@@ -12,7 +12,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 options = Options()
 options.add_experimental_option("detach", True)  # Keeps the window open
-
+print("hello")
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 driver.get(
