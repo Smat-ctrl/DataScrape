@@ -1,4 +1,4 @@
-#Directory Scraper
+# Directory Scraper
 
 This Python script automates the process of scraping company data from the WCA World Directory website using Selenium and OpenPyXL. It extracts company names, names of contacts, emails, and phone numbers for a specified country.
 
